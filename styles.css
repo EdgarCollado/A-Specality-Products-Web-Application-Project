@@ -15,3 +15,19 @@ header, footer {
     border: 1px solid white;
 }
 
+#order-form input[type="text"], #order-form input[type="number"] {
+    margin: 10px 0;
+    padding: 10px;
+}
+
+button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
