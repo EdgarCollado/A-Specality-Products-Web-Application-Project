@@ -36,11 +36,11 @@ To get started with this project on your local machine, follow these steps:
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/EdgarCollado/Food-Order-Web-Application-Project.git
+git clone https://github.com/EdgarCollado/A-Specality-Products-Web-Application-Project.git
 ```
 2. **Navigate to the Project Directory**
 ```bash
-cd Food-Order-Web-Application-Project
+cd A-Specality-Products-Web-Application-Project
 ```
 3. **Open the HTML file**
 - You'll find two HTML files in the project directory:
