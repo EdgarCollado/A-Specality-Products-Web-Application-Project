@@ -27,9 +27,4 @@ function addInventoryItem() {
 
     const itemDiv = document.createElement("div");
     itemDiv.classList.add("inventory-item");
-    // itemDiv.innerHTML =
-    // <h3>${name}</h3>
-    // <p>Price: $${price}</p>
-    // <p>inventory </p>
-    // ;
 }
